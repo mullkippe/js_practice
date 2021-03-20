@@ -1,0 +1,21 @@
+main {
+  padding-bottom: 1000px;
+}
+
+#s4 p:last-child {
+  display: none;
+}
+
+footer p.pagetop {
+  position: fixed;
+  bottom: 5px;
+  right: 20px;
+  display: none;
+}
+footer p.pagetop a {
+  background-color: red;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+}
+
